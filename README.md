@@ -1,7 +1,6 @@
 # Predator–Prey Dataset Study
 
-This repository contains a postgraduate academic project exploring predator–prey interactions using ecological data.  
-The analysis focuses on data inspection, cleaning, and inferential statistical methods with Python.
+This repository contains a postgraduate academic project exploring predator–prey interactions using ecological data. The analysis focuses on data inspection, cleaning, and inferential statistical methods with Python.
 
 ---
 
@@ -28,7 +27,7 @@ The project was developed in a **conda environment** using [Miniconda](https://d
    ```
 
 
-## 🛠 Project Workflow
+## Project Workflow
 
 - **Data Inspection**: initial checks of structure, missing values, and summary statistics.  
 - **Data Cleaning**: handling missing data, converting datatypes, and preparing cleaned datasets.  
