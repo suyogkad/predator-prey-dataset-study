@@ -1,0 +1,36 @@
+# Ignore datasets (raw & cleaned)
+*.csv
+dataset_cleaned/
+plots/
+inferential_plots/
+
+# Ignore Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Conda/virtual environment files
+env/
+venv/
+.venv/
+*.conda
+*.yml
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VSCode settings
+.vscode/
+.history/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
