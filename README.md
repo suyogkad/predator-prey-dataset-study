@@ -38,7 +38,7 @@ The project was developed in a **conda environment** using [Miniconda](https://d
 
 One of the inferential visualisations shows the relationship between **risk-taking and reward outcomes**:
 
-![Risk vs Reward](chi_percent_stacked_risk_reward.png)
+![Risk vs Reward](chi_percent_stacked_risk_reward_plot.png)
 
 This plot highlights how avoidance and risk-taking behaviours are linked to outcomes in the dataset.
 
