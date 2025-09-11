@@ -1,5 +1,21 @@
-# HIT140 Assessment 2 — Descriptive Analysis on cleaned datasets
+'''
 
+HIT140 Assessment 2: Part II — Descriptive Analysis on cleaned datasets
+
+Group Name: SYDN 28
+Group Members:
+Krish Rajbhandari - S395754
+Tasnim Zannat - S394294
+Asma Zia - S395083
+Suyog Kadariya - S393829
+
+This script reads the cleaned datasets and gives simple summaries and graphs.
+First we check shapes and types, then we plot a few key patterns to see whats going on.
+The aim is to understand the data visually before we run the formal statistical tests.
+    
+'''
+
+# Import libraries
 import os
 import pandas as pd
 import matplotlib.pyplot as plt

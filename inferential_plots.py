@@ -1,6 +1,22 @@
-# inferential_plots.py
-# HIT140 Assessment 2 — Visualising inferential results
+'''
 
+HIT140 Assessment 2 — Visualising inferential results (for our use and more clear understanding in graph)
+
+Group Name: SYDN 28
+Group Members:
+Krish Rajbhandari - S395754
+Tasnim Zannat - S394294
+Asma Zia - S395083
+Suyog Kadariya - S393829
+
+This script makes clear pictures of our inferential results.
+We plot the chi-square table, the group difference boxplot, the logistic regression ORs,
+and the two correlations so the stats are easy to see and explain in the presentation.
+
+'''
+
+
+# Import libraries
 import os
 import numpy as np
 import pandas as pd

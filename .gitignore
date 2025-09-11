@@ -1,4 +1,4 @@
-# Ignore datasets (raw & cleaned)
+# Ignore datasets
 *.csv
 dataset_cleaned/
 plots/
@@ -10,9 +10,6 @@ __pycache__/
 *.pyo
 *.pyd
 *.pkl
-
-# Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
 
 # Ignore Conda/virtual environment files
 env/

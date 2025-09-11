@@ -1,4 +1,20 @@
-# HIT140 Assessment 2 - Data Loading and Inspection
+'''
+
+HIT140 Assessment 2: Part I - Data Loading and Inspection
+
+Group Name: SYDN 28
+Group Members:
+Krish Rajbhandari - S395754
+Tasnim Zannat - S394294
+Asma Zia - S395083
+Suyog Kadariya - S393829
+
+This code loads the two datasets into Python and checks them step by step. 
+First it shows a small preview, then looks at info, missing values, and summary stats. 
+The purpose is to understand the structure of the data before we do any cleaning or analysis.
+    
+'''
+
 
 # Import libraries
 import pandas as pd
@@ -12,7 +28,7 @@ dataset1 = pd.read_csv("dataset1.csv")
 dataset2 = pd.read_csv("dataset2.csv")
 print("Datasets loaded successfully.\n")
 
-# Show first few rows (quick preview, not the whole dataset)
+# Show first few rows for quick preview instead of whole dataset
 print("Step 1: Preview of Dataset 1 (Bat Landings)")
 print(dataset1.head(), "\n")
 
@@ -24,7 +40,7 @@ print("Step 2: Dataset information")
 print(dataset1.info(), "\n")
 print(dataset2.info(), "\n")
 
-# Check for missing values
+# Check for missing values, if any
 print("Step 3: Missing values check")
 print("Dataset 1:\n", dataset1.isnull().sum(), "\n")
 print("Dataset 2:\n", dataset2.isnull().sum(), "\n")

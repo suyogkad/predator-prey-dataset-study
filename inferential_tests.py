@@ -1,5 +1,22 @@
-# HIT140 Assessment 2 — Inferential Analysis on cleaned datasets
+'''
 
+HIT140 Assessment 2: Part III — Inferential Analysis on cleaned datasets
+
+Group Name: SYDN 28
+Group Members:
+Krish Rajbhandari - S395754
+Tasnim Zannat - S394294
+Asma Zia - S395083
+Suyog Kadariya - S393829
+
+This script runs the main statistical tests on our cleaned data.
+We check if risk and reward are related, compare groups, and fit a simple model.
+The goal is to back up our findings with proper tests and clear numbers.
+
+'''
+
+
+# Import libraries
 import pandas as pd
 import numpy as np
 from scipy import stats
