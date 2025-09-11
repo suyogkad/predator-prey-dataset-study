@@ -1,8 +1,8 @@
 # Ignore datasets
-*.csv
-dataset_cleaned/
-plots/
-inferential_plots/
+# *.csv
+# dataset_cleaned/
+# plots/
+# inferential_plots/
 
 # Ignore Python cache & compiled files
 __pycache__/
