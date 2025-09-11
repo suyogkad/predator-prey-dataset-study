@@ -34,7 +34,7 @@ The project was developed in a **conda environment** using [Miniconda](https://d
 - **Inferential Analysis**: statistical tests and visualisations to explore predator–prey interactions.  
 
 
-## Example Result
+## Result
 
 One of the inferential visualisations shows the relationship between **risk-taking and reward outcomes**:
 
