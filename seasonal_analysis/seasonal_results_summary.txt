@@ -1,0 +1,10 @@
+=== Seasonal Analysis Results ===
+
+Chi-square (Risk vs Season): 4.844, p=0.0277
+Chi-square (Reward vs Season): 17.879, p=0.0000
+Mann–Whitney U (Landing Speed): U=nan, p=nan
+
+Spearman (Winter): rho=nan, p=nan
+Spearman (Spring): rho=nan, p=nan
+
+Logistic regression summary is printed in console.
