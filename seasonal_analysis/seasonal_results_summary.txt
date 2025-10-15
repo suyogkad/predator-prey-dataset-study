@@ -2,9 +2,9 @@
 
 Chi-square (Risk vs Season): 4.844, p=0.0277
 Chi-square (Reward vs Season): 17.879, p=0.0000
-Mann–Whitney U (Landing Speed): U=nan, p=nan
+Mann–Whitney U (Landing Speed): U=40138.500, p=0.0001
 
-Spearman (Winter): rho=nan, p=nan
+Spearman (Winter): rho=0.016, p=0.7086
 Spearman (Spring): rho=nan, p=nan
 
-Logistic regression summary is printed in console.
+Logistic regression summary printed in console.
